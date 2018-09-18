@@ -1,4 +1,4 @@
-#The silver bullet fallacy
+# The silver bullet fallacy
 **Too many people approach their work within an Agile environment thinking it's a methodology that'll solve their problems.**
 
 Those people are also the same people who become increasingly frustrated with Agile, not seeing the gains of their implementations.
