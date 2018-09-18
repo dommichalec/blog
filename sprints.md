@@ -6,6 +6,6 @@ This is a different dynamic from the questions most people deal with on a daily 
 
 Sprints-timeboxed segments of time with a definitive beginning and a definitive end—develop a different perspective. They help us understand our upper bound while establishing a rhythm that reminds us to incrementally re-evaluate what’s possible now and what's best suited for later down the road.
 
-I'm not talking about sprinting haphazardly. Rather, sprinting with a goal in mind, in a deliberate direction.
+I'm not talking about sprinting haphazardly. Rather, sprinting with a goal in mind, in a deliberate direction. All while constantly re-evaluating what is needed (and not needed) today to stay on track towards that goal.
 
 No one can sprint all the time. By its very nature, that’s not sprinting. But sprinting within the confines of time and rhythm is useful in order to inspect and adapt the trajectory and direction of what's possible.
